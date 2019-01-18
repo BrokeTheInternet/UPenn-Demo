@@ -1,2 +1,2 @@
 # UPenn-Demo
-UDenn demorepo
+UPenn demo repo
